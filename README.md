@@ -90,7 +90,7 @@ A powerful Windows Batch Script toolkit for system administrators, IT support en
 1. Download or clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/ultimate-windows-admin-toolkit.git
+git clone https://github.com/malayofficialcse-dev/windows-system-auditor.git
 ```
 
 2. Open Command Prompt as Administrator.
